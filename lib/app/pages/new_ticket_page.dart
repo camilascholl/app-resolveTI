@@ -96,11 +96,11 @@ class _NewTicketPageState extends State<NewTicketPage> {
           const AppTopBar(
             title: 'Novo Chamado',
             subtitle:
-                'Registre a ocorrÊncia com contexto claro para acelerar a fila.',
+                'Registre a ocorrência com contexto claro para acelerar a fila.',
             leadingIcon: Icons.post_add_rounded,
             actions: [
               TopBarIconButton(icon: Icons.help_outline_rounded),
-              AvatarBadge(initials: 'RA'),
+              AvatarBadge(initials: 'CS'),
             ],
           ),
           const SizedBox(height: 20),
