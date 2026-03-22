@@ -1,17 +1,100 @@
-# helpdesk_lite
+# 💻✨ ResolveTI
 
-A new Flutter project.
+🌷 Um app de helpdesk pensado para simplificar o suporte interno e organizar chamados de forma inteligente, visual e eficiente.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 💖 Sobre o projeto
 
-A few resources to get you started if this is your first Flutter project:
+O **ResolveTI** nasceu com o propósito de facilitar a gestão de chamados dentro de empresas de tecnologia, trazendo clareza, agilidade e organização para o dia a dia.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Com uma interface intuitiva e moderna, o app permite acompanhar tudo em um só lugar — desde a abertura até a resolução dos chamados.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧠 Funcionalidades
+
+* 📊 **Dashboard inteligente**
+
+  * Visão geral dos chamados
+  * Resumo de:
+
+    * 🟡 Pendentes
+    * 🔵 Abertos
+    * 🟢 Concluídos
+
+* 📈 **Gráfico por status**
+
+  * Acompanhamento visual da situação dos chamados
+
+* ⭐ **Chamados em destaque**
+
+  * Priorize o que realmente importa
+
+* 🧾 **Gestão de chamados**
+
+  * Visualize e acompanhe solicitações
+
+* ➕ **Novo chamado**
+
+  * Criação rápida e prática
+
+* 👤 **Perfil do usuário**
+
+  * Controle de informações pessoais
+
+---
+
+## 🗂️ Estrutura do app
+
+* 🏠 Dashboard
+* 🧾 Chamados
+* ➕ Novo
+* 👤 Perfil
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+* 💙 Flutter
+* 🎯 Dart
+* 📱 Android (em expansão para iOS)
+
+---
+
+## 📸 Preview
+
+> Em breve ✨
+
+---
+
+## 🚀 Como rodar o projeto
+
+```bash
+git clone https://github.com/seu-usuario/resolve-ti.git
+cd resolve-ti
+flutter pub get
+flutter run
+```
+
+---
+
+## 🌸 Diferencial
+
+O **ResolveTI** transforma o suporte interno em um processo mais organizado, visual e eficiente.
+
+---
+
+## 💌 Contato
+
+Feito com carinho por **Camila Scholl** 💖
+
+---
+
+## 🌟 Frase do projeto
+
+> "Organizar o suporte é resolver antes mesmo do problema crescer."
+
+---
+
+✨ Obrigada por visitar o ResolveTI!
